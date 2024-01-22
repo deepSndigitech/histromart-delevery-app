@@ -1,0 +1,55 @@
+name: deliveryboy_multivendor
+description: A new Flutter project.
+
+publish_to: "none"
+# version: 2.1.0+4
+version: 2.7.0+10
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  shared_preferences: ^2.0.15
+  connectivity: ^3.0.3
+  shimmer: ^3.0.0
+  webview_flutter: ^4.2.1
+  jaguar_jwt: ^3.0.0
+  #country_code_picker: ^2.0.2
+  firebase_messaging: ^14.1.4
+  flutter_local_notifications: ^15.1.0+1
+  path_provider: ^2.0.10
+  sms_autofill: ^2.2.0
+  firebase_auth: ^4.2.1
+  url_launcher: ^6.1.7
+  flutter_svg: ^2.0.5
+  lottie: ^2.1.0
+  cached_network_image: ^3.2.3
+  provider: ^6.0.5
+  flutter_localizations:
+    sdk: flutter
+  intl_phone_field: ^3.1.0
+  image_picker: ^1.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/PNG/
+    - assets/images/SVG/
+    - assets/animation/
+    - lib/Language/
+
+  fonts:
+    - family: opensans
+      fonts:
+        - asset: assets/font/OpenSans-Regular.ttf

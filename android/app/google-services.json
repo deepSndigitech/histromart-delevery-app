@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "327324836622",
+    "project_id": "eshop-multivendor-new",
+    "storage_bucket": "eshop-multivendor-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327324836622:android:c44980d019ebc3a936ad5f",
+        "android_client_info": {
+          "package_name": "com.deliveryboy.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327324836622-32bdv04p5emfkqcnneq16hf8k43k6n8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1l5qdSvmWJ7MRj82U3_V4s6ymEprFdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327324836622-32bdv04p5emfkqcnneq16hf8k43k6n8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327324836622-66keg8mgjde4hdd1g14uee9hbks5ngki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wrteam.eshop.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327324836622:android:47d0aca03bf12c3536ad5f",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327324836622-ji2sarngpv0f0ga7pucnf128apm136q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eShop.multivendor.customer",
+            "certificate_hash": "b237234503a1f61e06f9711f85f359f92b2f9689"
+          }
+        },
+        {
+          "client_id": "327324836622-32bdv04p5emfkqcnneq16hf8k43k6n8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1l5qdSvmWJ7MRj82U3_V4s6ymEprFdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327324836622-32bdv04p5emfkqcnneq16hf8k43k6n8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327324836622-66keg8mgjde4hdd1g14uee9hbks5ngki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wrteam.eshop.multivendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
